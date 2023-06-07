@@ -1,0 +1,130 @@
+.form-container { 
+    background-color: var(--more-list-shadow);
+    color: var(--main-color);
+    position: relative;
+    border: 1px solid var(--secondary-color);
+    border-right: none;
+    border-radius: 12px;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    padding: 20px 20px 20px 20px;
+    overflow: auto;
+}
+
+.form-container button {
+    position: relative;
+    left: 25%;
+    margin: auto;
+    background-color: var(--link-color-active);
+    border-radius: 10px;
+    width: 50%;
+    height: auto;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    overflow: hidden;
+  }
+  
+/* Modal Content/Box */
+.modal-content {
+  background-color: #eee;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 9% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  border-radius: 10px;
+  width: 50%; /* Could be more or less, depending on screen size */
+  height: auto;
+}
+
+#submit-application-button {
+  margin-top: 5px;
+  margin-bottom: 0;
+  background-color: #00562a;
+}
+
+/* Style the form labels */
+.modal-content label {
+  font-weight: bold;
+}
+
+/* Style the form labels */
+#apply-form {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style the form inputs */
+.modal-content input, .modal-content textarea {
+  padding: 5px;
+  border: 1px solid #292929;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+/* Style the submit button */
+.modal-content  button[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Position the submit button at the bottom of the modal */
+.modal-content  button[type="submit"] {
+  grid-column: 1 / span 2;
+  grid-row: 4;
+  justify-self: center;
+}
+  
+/* Close Button */
+.close {
+  position: relative;
+  bottom: 5%;
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.entry {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  width: 40%;
+}
+
+.entry label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.entry input {
+  padding: 5px;
+  border: 1px solid #292929;
+  border-radius: 3px;
+  font-size: 16px;
+}
