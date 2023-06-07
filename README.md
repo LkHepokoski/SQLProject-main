@@ -28,6 +28,11 @@ The application is built using the following technologies:
 To run the application, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
+3. Setup your MySQL DB and run the insertion file.
+4. Configure your connection settings in api and caller files.
+5. Ensure your ports are the same connection and use node to connect.
+6. Run the api and open the login.html view. 
+7. The program should be running functionally.
 
    
 ## How to use the application
