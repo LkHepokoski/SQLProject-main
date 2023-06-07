@@ -5,7 +5,7 @@ https://github.com/LkHepokoski/SQLProject-main/assets/93214397/a57028df-0204-4f2
 
 # Student Internship Application
 
-This is a web-based application that allows students to submit information about their internships through a data entry survey form, which will be stored in a relational database. The system also provides administrative forms for maintaining pick-list items and managing student submissions.
+This is a web-based application that allows students to submit information about their internships through a data entry survey form, which will be stored in a relational database. The system also provides administrative forms for maintaining pick-list items and managing student submissions. We had a 1-month timeframe to put everything together so we have some missing functionalities that would be useful to implement in the future such as making a web-hosted database instead of a local one and then implementing an easier connection system.
 
 ## Features
 
