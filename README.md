@@ -1,4 +1,6 @@
-https://github.com/LkHepokoski/SQLProject-main/assets/93214397/22f253d1-23d6-4125-abb3-fac3494fec2e
+https://github.com/LkHepokoski/SQLProject-main/assets/93214397/a57028df-0204-4f2b-b1e8-fd32e65db9a7
+
+
 
 
 # Student Internship Application
