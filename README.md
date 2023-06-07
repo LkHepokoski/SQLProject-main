@@ -1,3 +1,6 @@
+https://github.com/LkHepokoski/SQLProject-main/assets/93214397/22f253d1-23d6-4125-abb3-fac3494fec2e
+
+
 # Student Internship Application
 
 This is a web-based application that allows students to submit information about their internships through a data entry survey form, which will be stored in a relational database. The system also provides administrative forms for maintaining pick-list items and managing student submissions.
@@ -36,3 +39,6 @@ To use the application, follow these steps:
 ## Acknowledgments
 
 This application was developed as part of a project for Data Engineering (COP 3710) by Luke Hepokoski, Andrew Holm, Jose Suarez, and Christopher Tscheschlog.
+
+
+
