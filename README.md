@@ -38,8 +38,9 @@ To use the application, follow these steps:
 
 ## Acknowledgments
 
-This application was developed as part of a project for Data Engineering (COP 3710) by Luke Hepokoski, Andrew Holm, Jose Suarez , and Christopher Tscheschlog .
-https://github.com/codecrusherr
-https://github.com/Tscheschlog
+This application was developed as part of a project for Data Engineering (COP 3710) by Luke Hepokoski, Andrew Holm, Jose Suarez , and Christopher Tscheschlog.
+
+* https://github.com/codecrusherr
+* https://github.com/Tscheschlog
 
 
