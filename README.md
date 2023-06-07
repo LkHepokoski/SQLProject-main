@@ -38,7 +38,7 @@ To use the application, follow these steps:
 
 ## Acknowledgments
 
-This application was developed as part of a project for Data Engineering (COP 3710) by Luke Hepokoski, Andrew Holm, Jose Suarez, and Christopher Tscheschlog.
+This application was developed as part of a project for Data Engineering (COP 3710) by Luke Hepokoski, Andrew Holm, Jose Suarez (@codecrusherr), and Christopher Tscheschlog (@Tscheschlog).
 
 
 
